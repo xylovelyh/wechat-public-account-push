@@ -104,12 +104,12 @@ export const config = {
   CALLBACK_TEMPLATE_ID: "",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-  CALLBACK_USERS: [
+  CALLBACK_USERS: [oIAMg5gpG4ve4I8zIUGyN-cqLAyM
     {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "",oIAMg5gpG4ve4I8zIUGyN-cqLAyM
     },
     // 你可以不断按格式往下增加
     // ...
